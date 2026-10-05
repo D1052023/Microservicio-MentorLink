@@ -4,6 +4,8 @@
 
 A continuación se muestra el log detallado de los comandos ejecutados para inicializar el proyecto, crear la migración y aplicarla en la base de datos remota de Supabase:
 
+![Supabase CLI Log](./assets/supabase_cli_terminal_log.jpg)
+
 ```bash
 # Inicializar el proyecto local de Supabase
 $ supabase init
